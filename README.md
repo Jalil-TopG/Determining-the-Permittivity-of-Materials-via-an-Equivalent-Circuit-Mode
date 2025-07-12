@@ -17,6 +17,3 @@ The coaxial line is modeled with an equivalent circuit that includes:
 - Radiation conductance G₀
 - Fringing capacitance C₀ and C_f
 - Two admittance models depending on frequency regime
-
-Using calibration reflection coefficients from short, water, air, and methanol, the experimental reflection data is transformed to retrieve permittivity using:
-ε_m = -[(Δ_m2 Δ_13 ε_3 + Δ_m3 Δ_21 ε_2) / (Δ_m1 Δ_32)]
