@@ -1,0 +1,1 @@
+# Determining-the-Permittivity-of-Materials-via-an-Equivalent-Circuit-Mode
