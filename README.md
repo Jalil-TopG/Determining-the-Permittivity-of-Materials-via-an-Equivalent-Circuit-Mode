@@ -17,3 +17,5 @@ The coaxial line is modeled with an equivalent circuit that includes:
 - Radiation conductance G₀
 - Fringing capacitance C₀ and C_f
 - Two admittance models depending on frequency regime
+
+Read more [here](Equivalent_Circuit%20%281%29.pdf)
